@@ -9,5 +9,5 @@ The below files are added as of the latest update:
 
 
 # To-Do:
-1) Make the directory, and file paths commandline
+1) Make the directory and file paths commandline
 2) Add a constants file for hyperparameters
